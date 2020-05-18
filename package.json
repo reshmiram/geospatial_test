@@ -1,0 +1,10 @@
+{
+  "name": "interview-task",
+  "version": "1.0.0",
+  "description": "Interview task for Full-stack web developer role.",
+  "scripts": {
+    "start": ""
+  },
+  "author": "Lina Ragauskaite",
+  "license": "ISC"
+}
