@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "knex": "0.21.0",
-    "pg": "8.0.3"
+    "pg": "^8.0.3"
   },
-  "devDependencies": {}  
+  "devDependencies": {}
 }
