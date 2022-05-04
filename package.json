@@ -13,7 +13,7 @@
     "@angular/localize": "^9.1.7",
     "@ng-bootstrap/ng-bootstrap": "^6.1.0",
     "@types/mocha": "^7.0.2",
-    "angular": "^1.7.9",
+    "angular": "^1.8.3",
     "bootstrap": "^4.4.0",
     "pg": "^8.2.1"
   },
